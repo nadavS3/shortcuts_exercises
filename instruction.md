@@ -1,5 +1,6 @@
 you can use any shortcuts u know, the ones here can be helpfull in the upcoming drills, use anything you want and be creative.
-P.S:the shortcuts im suggesting for specific drills should be used in all the drills if you think its necessary(if not specifically stated otherwise)
+P.S:the shortcuts im suggesting for specific drills should be used in all the drills if you think its necessary(if not specifically stated otherwise),
+try to focus on the more easy and get a grip of them.
 general instructions:
 from now on try not to touch mouse at all(can be accomplished), move through tabs with alt + tab and move thorugh VS code and browser tabs with ctrl+tab
 

@@ -69,7 +69,7 @@ ctrl + shift + e = go to explorer(visual code)
 shift + F10 = simulate right click
 F2(while standing on a file) = edit the file name
 
-drill 4(harder):visual code
+bonus drill 4(harder):visual code
 go to VScode explorer
 navigae to app.js and right click it(no mouse , shift + F10)
 choose copy and then paste it(arrows)
