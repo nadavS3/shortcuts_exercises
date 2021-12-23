@@ -1,0 +1,67 @@
+T = Terminal
+VS = Visual Code
+D = Desktop
+W = Web
+rookie:
+ctr+f = search word
+windows+arrows = adjust the current screen size
+windows+d = desktop
+ctr+alt+t = create new terminal
+(T)alt+F4 or ctr +q = close window
+windows+space = change language
+
+intermidiate:
+(VC + D)alt+tab\shift+tab = move thru windows
+(T)nautilus FILENAME = open file directory
+(T)nautilus $PWD = open current directory
+(VC)ctr+pageup|down = move through opended code files(no visual)
+(VC + D) alt = enables navigating through options with keyboard
+(T) ctrl + r = look in history for a command, ctrl + r again to iterate through
+(T) ctrl + w = delete word
+(T)ctr+shift+t = open a copy terminal in the same window with the same path
+
+pro
+(VC)ctr+shift+e = go to explorer *** if not working: This is because ctrl + shift + E is assigned to emoji input. TO disable that go to terminal & type $ ibus-setup window will open third tab will be emojis tab. change the shortcut key ctrl + shift + e to anything you like. then explorer shortcut key will perfectly work.***
+
+(T) ctrl + a = go to the start lines
+(VC)ctr+shift+f = search word global
+shift+f10 = simulate right click
+(D)shift+F10 e = open terminal from current folder(assuming you are inside a folder)
+windows+number = open the app on the desktop bar corresponding to the number
+
+efficient movement and code editing
+rookie
+ctr+c = copy
+ctr+v = paste
+ctr+z = undo
+ctr+z = redo
+ctr+a = choose all
+ctr+arrows = move efficently through text
+pagedown = go a page down
+pageup = go a page up
+alt+tab+shift = move through windows backawrd
+(W)ctr+ tab\shift+tab = go to next\last tab in the internet
+(W)ctr+t = new tab
+(W)ctr+w = close tab
+(W)ctr+n = open new window
+
+intermidiate:
+shift+arrows = mark text
+alt+tab= move through windows
+shift+ctr+arrows = mark text by words(actually moves until see a special cherecter or a space)
+shift+end = mark til the end of the line
+shift+home = mark til the start of the line
+(VC)alt+arrowup/arrowdown = take a line of text up or down
+(VC)ctr+shift+i=format document
+(VC)alt+arrowup/arrowdown = take a line of text up or down
+(VC)alt+ctr+arrowup/arrowdown = create another cursor
+(VC)ctr+d = mark the next instance of the marked text
+(VC)F2 = choose all instances of the marked text and enable changes to them
+(W)alt+d=search bar
+(W)alt+arrows=go back or forward page
+
+pro:
+ctr+\ = extra editing panel
+F12 = go to declaration
+ctr+p = quick open
+
