@@ -57,11 +57,11 @@ in this drill you CANT:
 in App.js:
 1.uncomment the commented lines(ctrl + /)
 2.go to line 11
-go to the words Slim Shady(without pressing arrows repedetly) and mark it *(ctrl + shift + arrows)*
-then use *(ctrl + d)* to mark all the other occurrence in the song and replace them with elad
-then in the start of line 11 create multiple cursor down to line 17 and allign them with row 10
-*give all the p tags the class m&m(all together, not one by one )
-*you have 4 p tags and 8 lines of song, move each 2 lines of the song to a separate p tag *(go to start of upper line and use shift+arrow)*, then move lines with *(alt+arrows)*
+3.go to the words Slim Shady(without pressing arrows repedetly) and mark it *(ctrl + shift + arrows)*
+4.use *(ctrl + d)* to mark all the other occurrence(of the word Slim Shady) in the song and replace them with elad Reuveni
+5.in the start of line 11 create multiple cursor down to line 17 and allign them with row 10
+6.give all the p tags the class m&m(all together, not one by one )
+7.you have 4 p tags and 8 lines of song, move each 2 lines of the song to a separate p tag *(go to start of upper line and use shift+arrow)*, then move lines with *(alt+arrows)*
 
 
 tips:
